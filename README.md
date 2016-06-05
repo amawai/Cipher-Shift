@@ -1,1 +1,1 @@
-Simple cypher code to not randomly scramble words
+Simple cypher code to not so randomly scramble words
